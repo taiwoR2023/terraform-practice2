@@ -1,0 +1,5 @@
+region     = "us-east-1"
+profile    = "default"
+topic-name = "sns2"
+Team       = "dev2"
+endpoint = "jhjkklojjjkkkk@yahoomail.com"
